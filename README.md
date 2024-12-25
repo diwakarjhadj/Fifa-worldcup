@@ -12,7 +12,7 @@ This project scrapes data about the FIFA World Cup finals from the Wikipedia pag
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/worldcup-scraper.git
+    git clone https://github.com/diwakarjhadj/Fifa-worldcup
     ```
 
 2. Navigate to the project directory:
